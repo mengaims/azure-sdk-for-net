@@ -1,4 +1,8 @@
-# repo: Azure/azure-rest-api-specs-pr
-# commit: bdd03b95e0ccf52c3578fac731bc392734d2ea44
+# This setting caused error
+repo: azure/azure-rest-api-specs-pr
+commit: bdd03b95e0ccf52c3578fac731bc392734d2ea44
 directory: specification\cognitiveservices\ContentSafety
-spec-root-dir: D:\src\mengaims\azure-rest-api-specs-pr
+
+# This one works
+# spec-root-dir: [my local repository directory]
+# directory: specification\cognitiveservices\contentsafety
